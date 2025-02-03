@@ -1,0 +1,2 @@
+ansible_user: root
+ansible_ssh_private_key_file: /home/vanya/real_test/keys # you can change path to your private key
